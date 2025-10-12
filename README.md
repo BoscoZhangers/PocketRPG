@@ -25,7 +25,6 @@ Below are some step-by-step instructions to run this RPG game on your device.
 
 
 ```
-ava -cp .:arc.jar RPG
-  
+java -cp .:arc.jar RPG
 ```
 
