@@ -27,3 +27,15 @@ Most of the Pokémon-inspired graphical elements were hand-made using **Pixilart
 - Gain XP and level up your Pokémon  
 - Save and load game progress via file I/O  
 - Custom-made pixel graphics displayed through the `arc` library
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/BoscoZhangers/PokemonRPG.git
+   cd PokemonRPG
+   ```
+
+2. 
