@@ -11,7 +11,7 @@ The majority of the Pokémon-inspired graphical elements were hand-made using Pi
 ### ${}$
 
 
-### Instructions
+### Set-Up Instructions
 
 Getting this game up-and-running is quick and easy!
 
