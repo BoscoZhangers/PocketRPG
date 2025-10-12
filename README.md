@@ -23,8 +23,9 @@ Below are some step-by-step instructions to run this RPG game on your device.
 
 2) Run the following command on Terminal:
 
-   ```
-  java -cp .:arc.jar RPG
+
+```
+ava -cp .:arc.jar RPG
   
-   ```
+```
 
