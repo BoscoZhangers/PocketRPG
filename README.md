@@ -7,3 +7,8 @@ I took to building my own simulated version of the famous Pokémon role-playing 
 encounter pokémon, and face foes deployed by Team Rocket. 
 
 The majority of the Pokémon-inspired graphical elements were hand-made using Pixilart.
+
+
+### Instructions
+
+Below are some step-by-step instructions to run this RPG game on your device.
