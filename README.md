@@ -11,4 +11,20 @@ The majority of the Pokémon-inspired graphical elements were hand-made using Pi
 
 ### Instructions
 
+Getting this game up-and-running is quick and easy!
+
 Below are some step-by-step instructions to run this RPG game on your device.
+
+1) Ensure that the following files have been copied over to your directory:
+   - Everything in Data
+   - Everything in Images
+   - RPG.class (executable)
+   - arc.jar (Java library containing fundamental elements in Console)
+
+2) Run the following command on Terminal:
+
+   ```
+  java -cp .:arc.jar RPG
+  
+   ```
+
