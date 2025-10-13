@@ -69,7 +69,20 @@ PokemonRPG/
  │    ├── Chansey.png
  │    ├── ChanseySelect.png
  │    ├── Eevee.png
- │    └── Eevee.png
+ │    ├── EeveeSelect.png
+ │    ├── Pikachu.png
+ │    ├── PikachuSelect.png
+ │    ├── BattleGUI.png
+ │    ├── IntroGUI.png
+ │    ├── GUI1.png
+ │    ├── GUI2.png
+ │    ├── GUI3.png
+ │    ├── GUI4.png
+ │    ├── HelpGUI.png
+ │    ├── HomeNavGUI.png
+ │    ├── Pokeball.png
+ │    ├── Play.png
+ │    └── PlayMapGUI.png
  │    
  ├── Data/
  │    ├── Data.txt
@@ -90,8 +103,10 @@ PokemonRPG/
  │       ├── Tree.png
  │       └── Water.png
  │   └── Enemies/
- │       ├── 
- │       └──
+ │       ├── RocketTrainer.png
+ │       ├── James.png
+ │       ├── Jessie.png
+ │       └── Zubat.png
  │ 
  └── README.md
 ```
@@ -106,6 +121,8 @@ PokemonRPG/
 * **Course:** ICS 4U1 (Grade 12 Computer Science)
 * **Instructor:** Alfred Ron Cadawas
 * **Art Assets:**
+
+### ${}$
 
 📜 License
 
