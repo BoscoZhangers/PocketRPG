@@ -128,6 +128,6 @@ PokemonRPG/
 
 ### ${}$
 
-📜 License
+### 📜 License
 
 This project was developed for educational purposes and is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokémon Company.
