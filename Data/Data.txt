@@ -1,12 +1,12 @@
 Bosco
-Eevee
-1.0
-50
-50
-10
-BONUS DEMO
 Pikachu
 1.0
 50
 50
 20
+Karen
+Eevee
+1.0
+50
+50
+10

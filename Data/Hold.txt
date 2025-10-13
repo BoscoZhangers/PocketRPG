@@ -1,6 +1,6 @@
-BONUS DEMO
-Pikachu
+Karen
+Eevee
 1.0
 50
 50
-20
+10
