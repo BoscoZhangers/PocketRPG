@@ -35,12 +35,17 @@ Most of the Pokémon-inspired graphical elements were hand-made using **Pixilart
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/BoscoZhangers/PokemonRPG.git
-   cd PokemonRPG
    ```
 
-2. **Ensure you have `arc.jar` in the project directory.**
+2. **Enter the Repo:**
+   ```bash
+   cd PokemonRPG
+   ```
+   
+3. **Ensure you have `arc.jar` in the project directory.**
    (it must be located in the same directory as `RPG.class`).
-4. **Run:**
+   
+5. **Run:**
 
    > **Mac Users:**
    > ```bash
