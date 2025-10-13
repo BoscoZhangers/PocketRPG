@@ -62,6 +62,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 
 ```
 PokemonRPG/
+ │ 
  ├── RPG.class \n
  ├── arc.jar
  │    ├── BattleGUI.png
@@ -76,6 +77,7 @@ PokemonRPG/
  │    ├── Level1.csv
  │    ├── Level2.csv
  │    └── Level3.csv
+ │ 
  ├── Images_Pokemon_RPG/
  │   └── Terrain/
  │       ├── Grass1.png
@@ -89,6 +91,7 @@ PokemonRPG/
  │       └── Water.png
  │   └── Enemies/
  │       ├── 
- │       └── 
+ │       └──
+ │ 
  └── README.md
 ```
