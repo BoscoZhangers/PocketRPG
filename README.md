@@ -10,7 +10,7 @@ Inspired by my interest in Pokémon, I took to building my own simulated version
 
 Most of the Pokémon-replicated graphical elements were hand-made using **Pixilart**.
 
----
+### ${}$
 
 ## ⚙️ Technologies Used
 - **Language:** Java  
@@ -18,7 +18,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 - **IDE:** Visual Studio Code  
 - **Assets:** Custom pixel art created with [Pixilart](https://www.pixilart.com)
 
----
+### ${}$
 
 ## 🧩 Features
 - Explore a simulated Pokémon world  
@@ -28,8 +28,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 - Save and load game progress via file I/O  
 - Custom-made pixel graphics displayed through the `arc` library
 
----
-
+### ${}$
 ## 🚀 How to Run
 
 1. **Clone the repository:**
@@ -57,9 +56,12 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
    > java -cp .;arc.jar RPG
    > ```
 
+### ${}$
+
 ## 🧱 File Structure 
+```
 PokemonRPG/
- ├── RPG.class
+ ├── RPG.class \n
  ├── arc.jar
  ├── Data/
  │    ├── Data.txt
@@ -73,3 +75,4 @@ PokemonRPG/
  │    ├── ChanseySelect.png
  │    ├── Eevee.png
  └── README.md
+```
