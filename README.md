@@ -22,8 +22,8 @@ Most of the Pokémon-inspired graphical elements were hand-made using **Pixilart
 
 ## 🧩 Features
 - Explore a simulated Pokémon world  
-- Encounter random Pokémon in tall grass  
-- Battle and defeat Team Rocket’s trainers  
+- Encounter wild Pokémon   
+- Battle and (hopefully) defeat Team Rocket’s trainers  
 - Gain XP and level up your Pokémon  
 - Save and load game progress via file I/O  
 - Custom-made pixel graphics displayed through the `arc` library
@@ -38,4 +38,6 @@ Most of the Pokémon-inspired graphical elements were hand-made using **Pixilart
    cd PokemonRPG
    ```
 
-2. 
+2. **Ensure you have `arc.jar` in the project directory.**
+   (it must be located in the same directory as `RPG.class`).
+4. **Run:**
