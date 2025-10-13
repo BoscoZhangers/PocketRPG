@@ -8,7 +8,7 @@ For my Grade 12 Computer Science class (**ICS4U1**), I was tasked with building 
 
 Inspired by my interest in Pokémon, I took to building my own simulated version of the famous Pokémon role-playing game — where the player can traverse a world, gain experience, encounter Pokémon, and face foes deployed by none other than **Team Rocket**.  
 
-Most of the Pokémon-inspired graphical elements were hand-made using **Pixilart**.
+Most of the Pokémon-replicated graphical elements were hand-made using **Pixilart**.
 
 ---
 
