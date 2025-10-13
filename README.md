@@ -70,9 +70,13 @@ PokemonRPG/
  │    ├── Level2.csv
  │    ├── Level3.csv
  ├── Images_Pokemon_RPG/
+ │   └── Terrain/
+ │       ├── Grass1.png
+ │       ├── Grass2.png
  │    ├── BattleGUI.png
  │    ├── Chansey.png
  │    ├── ChanseySelect.png
+ │    ├── Eevee.png
  │    ├── Eevee.png
  └── README.md
 ```
