@@ -1,4 +1,4 @@
-# 🎮  Pokémon RPG
+# 🎮 Pokémon RPG
 *A Java-based console RPG inspired by the world of Pokémon*
 
 ---
@@ -123,14 +123,11 @@ PokemonRPG/
 * **Course:** ICS 4U1 (Grade 12 Computer Science)
 * **Instructor:** Alfred Ron Cadawas
 * **Art Assets:**
+* **Framework:** ARC Java Library (for console graphics and sound)
+* **Graphic Design and Overall Inspiration:** Nintendo and the Pokémon Company
 
 ### ${}$
 
 📜 License
 
 This project was developed for educational purposes and is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokémon Company.
-* **Framework:** ARC Java Library (for console graphics and sound)
-* **Graphic Design and Overall Inspiration:** Nintendo and the Pokémon Company
-
-
-
