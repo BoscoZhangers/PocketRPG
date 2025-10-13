@@ -41,3 +41,13 @@ Most of the Pokémon-inspired graphical elements were hand-made using **Pixilart
 2. **Ensure you have `arc.jar` in the project directory.**
    (it must be located in the same directory as `RPG.class`).
 4. **Run:**
+
+   > **Mac Users:**
+   > ```bash
+   > java -cp .:arc.jar RPG
+   > ```
+
+   > **Windows Users:**
+   > ```bash
+   > java -cp .;arc.jar RPG
+   > ```
