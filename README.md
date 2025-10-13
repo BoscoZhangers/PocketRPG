@@ -56,3 +56,20 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
    > ```bash
    > java -cp .;arc.jar RPG
    > ```
+
+## 🧱 File Structure 
+PokemonRPG/
+ ├── RPG.class
+ ├── arc.jar
+ ├── Data/
+ │    ├── Data.txt
+ │    ├── Hold.txt
+ │    ├── Level1.csv
+ │    ├── Level2.csv
+ │    ├── Level3.csv
+ ├── Images_Pokemon_RPG/
+ │    ├── BattleGUI.png
+ │    ├── Chansey.png
+ │    ├── ChanseySelect.png
+ │    ├── Eevee.png
+ └── README.md
