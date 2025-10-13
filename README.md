@@ -59,6 +59,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 ### ${}$
 
 ## 🧱 File Structure 
+
 ```
 PokemonRPG/
  ├── RPG.class \n
@@ -73,6 +74,12 @@ PokemonRPG/
  │   └── Terrain/
  │       ├── Grass1.png
  │       ├── Grass2.png
+ │       ├── MountainBR.png
+ │       ├── Tree.png
+ │       └── Water.png
+ │   └── Enemies/
+ │       ├── 
+ │       └── 
  │    ├── BattleGUI.png
  │    ├── Chansey.png
  │    ├── ChanseySelect.png
