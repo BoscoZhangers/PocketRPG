@@ -95,3 +95,19 @@ PokemonRPG/
  │ 
  └── README.md
 ```
+
+## 🧠 Design Notes
+
+
+### ${}$
+
+## ✨ Credits
+* **Developer:** Bosco Zhang
+* **Course:** ICS 4U1 (Grade 12 Computer Science)
+* **Instructor:** Alfred Ron Cadawas
+* **Art Assets:**
+* **Framework:** ARC Java Library (for console graphics and sound)
+* **Graphic Design and Overall Inspiration:** Nintendo and the Pokémon Company
+
+
+
