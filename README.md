@@ -1,4 +1,4 @@
-# 🎮 Pokémon RPG
+# 🎮  Pokémon RPG
 *A Java-based console RPG inspired by the world of Pokémon*
 
 ---
