@@ -6,7 +6,9 @@
 ## 📖 Preface
 For my Grade 12 Computer Science class (**ICS4U1**), I was tasked with building an RPG game that leverages basic data manipulation through I/O and supports a spontaneous stream of input from users to create a smooth, dynamic, and immersive experience.  
 
-Inspired by my interest in Pokémon, I took to building my own simulated version of the famous Pokémon role-playing game — where the player can traverse a world, gain experience, encounter Pokémon, and face foes deployed by none other than **Team Rocket**.  
+Inspired by my interest in Pokémon, I took to building my own, small-scaled simulated version of the classical, fan-favourite Pokémon role-playing game — where the player can traverse a world, gain experience, encounter Pokémon, and face foes deployed by none other than **Team Rocket**.  
+
+The following RPG game serves only for educational purposes and as a demonstration of the power of modern technologies.
 
 Most of the Pokémon-replicated graphical elements were hand-made using **Pixilart**.
 
@@ -113,6 +115,10 @@ PokemonRPG/
 
 ### ${}$
 
+## 🎮 How to Play
+
+
+
 ## 🧠 Design Notes
 
 
@@ -122,7 +128,7 @@ PokemonRPG/
 * **Developer:** Bosco Zhang
 * **Course:** ICS 4U1 (Grade 12 Computer Science)
 * **Instructor:** Alfred Ron Cadawas
-* **Art Assets:**
+* **Art Assets:** 
 * **Framework:** ARC Java Library (for console graphics and sound)
 * **Graphic Design and Overall Inspiration:** Nintendo and the Pokémon Company
 
