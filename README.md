@@ -36,7 +36,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BoscoZhangers/PokemonRPG.git
+   git clone https://github.com/BoscoZhangers/PocketRPG.git
    ```
 
 2. **Enter the Repo:**
@@ -47,7 +47,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 3. **Ensure you have `arc.jar` in the project directory.**
    (it must be located in the same directory as `RPG.class`).
    
-5. **Run:**
+5. **Run: In `PocketRPG/`, run:**
 
    > **Mac Users:**
    > ```bash
@@ -128,6 +128,8 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 ### ${}$
 
 #### 2) Select Your Pokémon!
+Newly registered accounts will be given 3 choices for their first pokémon!
+
 
 ### ${}$
 
@@ -149,6 +151,8 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 ## 💬 Feedback 
 All feedback, whether, commentative or suggestive, are welcome. If you experience any bugs or have any suggestions on improvement, feel free to reach out to me at Boscozhang715@gmail.com! We are always looking for ways to learn and improve! :)
 
-### 📜 License
+### ${}$
+
+## 📜 License
 
 This project was developed for educational purposes and is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokémon Company. This project is not to be commercialized or redistributed in any way, should anybody do otherwise, they accept any and all legal liability. 
