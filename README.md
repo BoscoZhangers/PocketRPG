@@ -32,7 +32,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 - Custom-made pixel graphics displayed through the `arc` library
 
 ### ${}$
-## 🚀 How to Run
+## 🚀 How to Run (Setup)
 
 1. **Clone the repository:**
    ```bash
