@@ -130,6 +130,7 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 #### 2) Select Your Pokémon!
 Newly registered accounts will be given 3 choices for their first pokémon!
 
+![Demo of the RPG Game](assets/SelectPokemon.gif)
 
 ### ${}$
 
