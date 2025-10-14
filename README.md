@@ -120,8 +120,8 @@ PokemonRPG/
 ## 🎮 How to Play
 
 #### 1) Login / Sign-Up 🔐
-To create a new account, simply follow the prompt and enter the username (which you will then use to login moving forwards).
-Your account (and its info) will be stored on your repo directory, in data.txt. If you already have an account saved in data.txt, use the same userrname to login.
+To create a new account, simply follow the prompt and enter the username (which you will then use to log in moving forward).
+Your account (and its info) will be stored in your repo directory, in data.txt. If you already have an account saved in data.txt, use the same username to log in.
 
 ![Demo of the RPG Game](assets/LOGIN_DEMO-ezgif.com-video-to-gif-converter.gif)
 
@@ -131,6 +131,7 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 Newly registered accounts will be given 3 choices for their first pokémon!
 
 ![Demo of the RPG Game](assets/SelectPokemon.gif)
+### ${}$
 
 ### 3) Navigate the Main Menu 🏠
 At any time, you can return to your personalized main menu where you can either start/resume your game using the escape key (esc), save your progress, find help, or quit.
