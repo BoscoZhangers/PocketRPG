@@ -125,7 +125,9 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 
 ![Demo of the RPG Game](assets/LOGIN_DEMO-ezgif.com-video-to-gif-converter.gif)
 
-#### 2)
+### ${}$
+
+#### 2) Select Your Pokémon!
 
 ## 🧠 Design Notes
 
