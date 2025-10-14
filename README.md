@@ -120,7 +120,7 @@ PokemonRPG/
 ## 🎮 How to Play
 
 #### 1) Login / Sign-Up
-
+![Demo of the RPG Game](assets/LOGIN_DEMO-ezgif.com-video-to-gif-converter)
 
 ### 2)
 
