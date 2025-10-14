@@ -1,5 +1,5 @@
 # 🎮 Pocket RPG
-*A Java-based console RPG heavily inspired by the world of Pokémon*
+*A retro-style RPG heavily inspired by the world of Pokémon, built entirely with Java*
 
 ---
 
@@ -8,7 +8,8 @@ For my Grade 12 Computer Science class (**ICS4U1**), I was tasked with building 
 
 Inspired by my interest in Pokémon, I took to building my own, small-scaled simulated version of the classical, fan-favourite Pokémon role-playing game — where the player can traverse a world, gain experience, encounter Pokémon, and face foes deployed by none other than **Team Rocket**.  
 
-The following RPG game serves only for educational purposes and as a demonstration of the power of modern technologies.
+Pocket RPG was designed for educational purposes and is being showcased as a product of my learning journey and
+the possibilities of elementary programming concepts and tools, sprinkled with a bit of creativity and passion!
 
 Most of the Pokémon-replicated graphical elements were hand-made using **Pixilart**.
 
