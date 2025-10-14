@@ -1,9 +1,9 @@
 DEMO
-Eevee
+Pikachu
 1.0
 50
 50
-10
+20
 Bosco
 Pikachu
 2.100000000000001
