@@ -119,7 +119,7 @@ PokemonRPG/
 
 ## 🎮 How to Play
 
-#### 1) Login / Sign-Up
+#### 1) 🔐 Login / Sign-Up
 To create a new account, simply follow the prompt and enter the username (which you will then use to login moving forwards).
 Your account (and its info) will be stored on your repo directory, in data.txt. If you already have an account saved in data.txt, use the same userrname to login.
 
@@ -127,7 +127,7 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 
 ### ${}$
 
-#### 2) Select Your Pokémon!
+#### 2) ‼️ Select Your Pokémon!
 Newly registered accounts will be given 3 choices for their first pokémon!
 
 ![Demo of the RPG Game](assets/SelectPokemon.gif)
