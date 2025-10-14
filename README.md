@@ -66,26 +66,8 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 ```
 PokemonRPG/
  │ 
- ├── RPG.class \n
+ ├── RPG.class 
  ├── arc.jar
- │    ├── BattleGUI.png
- │    ├── Chansey.png
- │    ├── ChanseySelect.png
- │    ├── Eevee.png
- │    ├── EeveeSelect.png
- │    ├── Pikachu.png
- │    ├── PikachuSelect.png
- │    ├── BattleGUI.png
- │    ├── IntroGUI.png
- │    ├── GUI1.png
- │    ├── GUI2.png
- │    ├── GUI3.png
- │    ├── GUI4.png
- │    ├── HelpGUI.png
- │    ├── HomeNavGUI.png
- │    ├── Pokeball.png
- │    ├── Play.png
- │    └── PlayMapGUI.png
  │    
  ├── Data/
  │    ├── Data.txt
@@ -110,6 +92,25 @@ PokemonRPG/
  │       ├── James.png
  │       ├── Jessie.png
  │       └── Zubat.png
+ │
+ │   ├── BattleGUI.png
+ │   ├── Chansey.png
+ │   ├── ChanseySelect.png
+ │   ├── Eevee.png
+ │   ├── EeveeSelect.png
+ │   ├── Pikachu.png
+ │   ├── PikachuSelect.png
+ │   ├── BattleGUI.png
+ │   ├── IntroGUI.png
+ │   ├── GUI1.png
+ │   ├── GUI2.png
+ │   ├── GUI3.png
+ │   ├── GUI4.png
+ │   ├── HelpGUI.png
+ │   ├── HomeNavGUI.png
+ │   ├── Pokeball.png
+ │   ├── Play.png
+ │   └── PlayMapGUI.png
  │ 
  └── README.md
 ```
@@ -118,7 +119,10 @@ PokemonRPG/
 
 ## 🎮 How to Play
 
+#### 1) Login / Sign-Up
 
+
+### 2)
 
 ## 🧠 Design Notes
 
