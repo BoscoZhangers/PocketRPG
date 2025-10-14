@@ -129,6 +129,8 @@ Your account (and its info) will be stored on your repo directory, in data.txt. 
 
 #### 2) Select Your Pokémon!
 
+### ${}$
+
 ## 🧠 Design Notes
 
 
