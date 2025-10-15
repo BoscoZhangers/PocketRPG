@@ -137,9 +137,10 @@ Newly registered accounts will be given 3 choices for their first pokémon!
 At any time, you can return to your personalized main menu where you can either start/resume your game using the escape key (esc), save your progress, find help, or quit.
 Your stats, including your level and attack damage will also be displayed here! Once you're ready, press (p) to start your adventure!
 
-### 4) Select Level / Route
+### 4) Select Level / Route 🚪
 You'll be prompted to select your route/level. To the rookies, you'll want to start at route 1 and eventually work your way up to route 9 and route 22, subject to level limitations, for your own safety!
 
+### 5) Controls 🎮
 ### ${}$
 
 ## 🧠 Design Notes
