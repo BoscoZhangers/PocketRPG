@@ -41,7 +41,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 
 2. **Enter the Repo:**
    ```bash
-   cd PokemonRPG
+   cd PocketRPG
    ```
    
 3. **Ensure you have `arc.jar` in the project directory.**
