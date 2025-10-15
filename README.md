@@ -120,25 +120,26 @@ PokemonRPG/
 ## 🎮 How to Play
 
 #### 1) Login / Sign-Up 🔐
-To create a new account, simply follow the prompt and enter the username (which you will then use to log in moving forward).
-Your account (and its info) will be stored in your repo directory, in data.txt. If you already have an account saved in data.txt, use the same username to log in.
+   To create a new account, simply follow the prompt and enter the username (which you will then use to log in moving forward).
+   Your account (and its info) will be stored in your repo directory, in data.txt. If you already have an account saved in data.txt, use the same username to log in.
 
 ![Demo of the RPG Game](assets/LOGIN_DEMO-ezgif.com-video-to-gif-converter.gif)
  
 ### ${}$
 
 #### 2) Select Your Pokémon ‼️
-Newly registered accounts will be given 3 choices for their first pokémon!
+   Newly registered accounts will be given 3 choices for their first pokémon!
 
 ![Demo of the RPG Game](assets/SelectPokemon.gif)
 ### ${}$
 
 ### 3) Navigate the Main Menu 🏠
-At any time, you can return to your personalized main menu where you can either start/resume your game using the escape key (esc), save your progress, find help, or quit.
-Your stats, including your level and attack damage will also be displayed here! Once you're ready, press (p) to start your adventure!
+   At any time, you can return to your personalized main menu where you can either start/resume your game using the escape key (esc), save your progress, find help, or quit.
+   Your stats, including your level and attack damage will also be displayed here! Once you're ready, press (p) to start your adventure!
 
 ### 4) Select Level / Route 🚪
-You'll be prompted to select your route/level. To the rookies, you'll want to start at route 1 and eventually work your way up to route 9 and route 22, subject to level limitations, for your own safety!
+   You'll be prompted to select your route/level. To the rookies, you'll want to start at route 1 and eventually work your way up to route 9 and route 22, 
+   subject to level limitations, for your own safety!
 
 ### 5) Controls 🎮
 ### ${}$
