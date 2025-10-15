@@ -15,7 +15,7 @@ Most of the Pokémon-replicated graphical elements were hand-made using **Pixila
 
 ### ${}$
 
-## ⚙️ Technologies Used
+## ⚙️ Built With
 - **Language:** Java  
 - **Library:** [`arc.jar`](https://arc.teach.cs.utoronto.ca) — for console I/O and simple graphics  
 - **IDE:** Visual Studio Code  
