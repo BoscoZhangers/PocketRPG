@@ -1,12 +1,6 @@
-DEMO
-Pikachu
+DhruvMyra
+Eevee
 1.0
 50
 50
-20
-Bosco
-Pikachu
-2.100000000000001
-60
-60
-30
+10
