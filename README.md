@@ -1,5 +1,5 @@
 # 🎮  Pocket RPG
-*A retro-style RPG heavily inspired by the world of Pokémon, built entirely with Java*
+*A retro-style RPG heavily inspired by the world of Pokémon, built with Java*
 
 ---
 
