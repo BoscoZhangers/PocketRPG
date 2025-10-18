@@ -1,6 +1,12 @@
+Bosco
+Pikachu
+1.0
+50
+50
+20
 DhruvMyra
 Eevee
-1.0
+10.0
 50
 50
 10
