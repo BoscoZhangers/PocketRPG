@@ -142,6 +142,11 @@ PokemonRPG/
    subject to level limitations, for your own safety!
 
 ### 5) Controls 🎮
+* `W` / `up-arrow` to move up
+* `d` / `down-arrow` to move down
+* `s` / `right-arrow` to move right
+* `a` / `left-arrow` to move left
+* * `esc` to return to main menu
 ### ${}$
 
 ## 🧠 Design Notes
