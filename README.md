@@ -128,7 +128,7 @@ PokemonRPG/
 ### ${}$
 
 #### 2) Select Your Pokémon ‼️
-   Newly registered accounts will be given 3 choices for their first pokémon!
+   Newly registered accounts will be given 3 choices for their first pokémon! Each pokémon comes with a special starting advantage. 
 
 ![Demo of the RPG Game](assets/SelectPokemon.gif)
 ### ${}$
