@@ -155,6 +155,7 @@ Combat is facilitated in a "rock-paper-scizzors" fashion whereby the player init
 -  (1) Attack: Deal damage to opponent (amount based on Attack Power), beats (2)
 -  (2) Heal: Heal yourself by 5 HP, beats (3)
 -  (3) Defend: Reflect half of the opponent's damage, beats (1)
+
 If you and your opponent select the same move, nothing happens. If move (a) beats move (b), only the player who chose move (a) will perform move (a). 
  
 ### ${}$
