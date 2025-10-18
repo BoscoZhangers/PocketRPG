@@ -152,9 +152,11 @@ PokemonRPG/
 As you traverse the world, you may find yourself engaged in combat with wild pokemon or some foes from Team Rocket. When players are locked in combat, all movement controls are disabled until the player defeats the enemy or is defeated.
 
 Combat is facilitated in a "rock-paper-scizzors" fashion whereby the player initiates one of the following moves with their pokémon companion:
--  (1) Attack
--  (2)
-
+-  (1) Attack: Deal damage to opponent (amount based on Attack Power), beats (2)
+-  (2) Heal: Heal yourself by 5 HP, beats (3)
+-  (3) Defend: Reflect half of the opponent's damage, beats (1)
+If you and your opponent select the same move, nothing happens. If move (a) beats move (b), only the player who chose move (a) will perform move (a). 
+ 
 ### ${}$
 
 ## 🧠 Design Notes
