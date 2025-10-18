@@ -158,6 +158,8 @@ Combat is facilitated in a "rock-paper-scizzors" fashion whereby the player init
 
 If you and your opponent select the same move, nothing happens. If move (a) beats move (b), only the player who chose move (a) will perform move (a). 
  
+![Demo of the RPG Game](assets/combat_demo.gif)
+
 ### ${}$
 
 ## 🧠 Design Notes
