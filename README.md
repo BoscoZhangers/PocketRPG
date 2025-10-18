@@ -148,7 +148,7 @@ PokemonRPG/
 * `a` / `left-arrow` to move left
 * `esc` to return to main menu
 
-### **Combat ⚔️:**
+### 6) Combat ⚔️
 As you traverse the world, you may find yourself engaged in combat with wild pokemon or some foes from Team Rocket. When players are locked in combat, all movement controls are disabled until the player defeats the enemy or is defeated.
 
 Combat is facilitated in a "rock-paper-scizzors" fashion whereby the player initiates one of the following moves with their pokémon companion:
