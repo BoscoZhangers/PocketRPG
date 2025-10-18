@@ -146,7 +146,7 @@ PokemonRPG/
 * `d` / `down-arrow` to move down
 * `s` / `right-arrow` to move right
 * `a` / `left-arrow` to move left
-* * `esc` to return to main menu
+* `esc` to return to main menu
 ### ${}$
 
 ## 🧠 Design Notes
