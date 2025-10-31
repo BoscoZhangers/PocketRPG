@@ -149,7 +149,7 @@ PokemonRPG/
 * `esc` to return to main menu
 
 ### 6) Combat ⚔️
-As you traverse the world, you may find yourself engaged in combat with wild pokemon or some foes from Team Rocket. When players are locked in combat, all movement controls are disabled until the player defeats the enemy or is defeated.
+As you traverse the world, you may find yourself engaged in combat with wild pokémon or some foes from Team Rocket. When players are locked in combat, all movement controls are disabled until the player defeats the enemy or is defeated.
 
 Combat is facilitated in a "rock-paper-scizzors" fashion whereby the player initiates one of the following moves with their pokémon companion:
 -  (1) Attack: Deal damage to opponent (amount based on Attack Power), beats (2)
@@ -159,6 +159,12 @@ Combat is facilitated in a "rock-paper-scizzors" fashion whereby the player init
 If you and your opponent select the same move, nothing happens. If move (a) beats move (b), only the player who chose move (a) will perform move (a). 
  
 ![Demo of the RPG Game](assets/combat_demo.gif)
+
+### 7) 🏥 Healing and Re-Spawning
+If at some point you are defeated by a foe, fret not! Nurse Joy will deliver your pokémon to the Pokémon centre where you will be restored to full health. While out-of-combat, you may also visit the Pokémon Centre to restore your health by simply walking to the designated location!
+
+### 8) 📈 Leveling Up
+Gain exp by defeating foes! On the right-hand side, your exp and your progress to levelling up will be displayed! Leveling up unlocks more maps!
 
 ### ${}$
 
