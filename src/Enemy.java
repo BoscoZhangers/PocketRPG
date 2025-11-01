@@ -8,14 +8,18 @@ public abstract class Enemy {
 
 	// Accessor Methods
     int getHP() {
-        return this.HP();
+        return HP;
     }
 
     int getAttackPower() {
-        return this.AttackPower;
+        return AttackPower;
     }
 
     int getExp() {
-        return this.Exp;
+        return Exp;
+    }
+
+    void dealDamage(int dmg) {
+        HP -= dmg;
     }
 }
