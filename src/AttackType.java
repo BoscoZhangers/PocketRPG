@@ -1,0 +1,1 @@
+public enum class AttackType = {Attack, Defend, Heal};
